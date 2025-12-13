@@ -19,6 +19,7 @@ Bildiklerimi ve kullandıklarımı aşağıda görebilirsiniz:
 * **Git & GitHub**, Docker, VS Code
 
 ## 📊 GitHub İstatistiklerim
+### 💚 Yıllık Katkılarım
 
 [![GitHub Katkı Grafiği](https://github-contribution-grid-snake.vercel.app/graph-sunburst.svg?username=HamidHan&theme=dark)](https://github.com/HamidHan)
 
