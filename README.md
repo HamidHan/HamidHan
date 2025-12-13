@@ -1,35 +1,39 @@
-# 👋 Merhaba, Ben Hamid Han!
+# 👋 Hello, I'm Hamid Han!
 
-Selamlar! Ben Backend'e odaklanmış bir geliştiriciyim. Yeni teknolojileri öğrenmeyi ve Mobil Geliştirme'yle ilgili projeler üretmeyi seviyorum.
+Greetings! I'm a developer focused on **Backend**, and I love learning new technologies and creating projects related to **Mobile Development**.
 
 ---
 
-## 💻 Teknolojilerim ve Araçlarım
+## 💻 My Technologies and Tools
+
+Here are the technologies and tools I know and use:
 
 * **Frontend:** HTML5, CSS3, **JavaScript** (ES6+)
-* **Backend & Veritabanı:** Python (Django/Flask), **Node.js** (Express), PostgreSQL, **MySQL / MariaDB**
-* **Diğer Araçlar:** **Git & GitHub**, Docker, VS Code
+* **Backend & Database:** Python (Django/Flask), **Node.js** (Express), PostgreSQL, **MySQL / MariaDB**
+* **Other Tools:** **Git & GitHub**, Docker, VS Code
 
 ---
 
-## 📊 GitHub İstatistiklerim ve Becerilerim
+## 📊 GitHub Stats and Skills
 
 <p align="center">
   <a href="https://github.com/HamidHan">
-    <img src="https://github-readme-stats.vercel.app/api?username=HamidHan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="HamidHan'ın GitHub İstatistikleri" height="195px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=HamidHan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Hamid Han's GitHub Stats" height="195px"/>
   </a>
 </p>
-    
+  
 ---
 
-### 🔥 Şu anda Ne Yapıyorum?
+### 🔥 What I'm Currently Working On
 
-* Yeni bir dil olarak **Python, C++ ve Java** üzerine çalışıyorum.
+* I am currently learning **Python, C++, and Java** as new languages.
 
-## 🔗 Bana Ulaşın
+## 🔗 Connect With Me
 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hanhamidd/)
-* **Kişisel Web Sitesi:** [Web Sitem](http://htechdev.com.tr/)
+* **Personal Website:** [My Website](http://htechdev.com.tr/)
 
-### ☕ Bana Destek Olun
+### ☕ Support Me
+If you find my projects and contributions helpful, you can support me by buying me a coffee! Your support is a huge motivation for me to produce more open-source code.
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hanhamiddp)
