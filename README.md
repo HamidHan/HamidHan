@@ -20,9 +20,11 @@ Bildiklerimi ve kullandıklarımı aşağıda görebilirsiniz:
 
 ## 📊 GitHub İstatistiklerim
 
-[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=HamidHan&show_icons=true&theme=radical)](https://github.com/HamidHan)
+[![GitHub Katkı Grafiği](https://github-contribution-grid-snake.vercel.app/graph-sunburst.svg?username=HamidHan&theme=dark)](https://github.com/HamidHan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamidHan&layout=compact&theme=vision-friendly)](https://github.com/HamidHan)
+### ⏳ Kodlama Sürem
+
+[![wakatime](https://wakatime.com/badge/user/HamidHan.svg)](https://wakatime.com/@HamidHan)
 
 ## 🔗 Bana Ulaşın
 
