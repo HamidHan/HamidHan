@@ -1,16 +1,37 @@
-## Hi there 👋
- (HTML, CSS, JavaScript, React, Python, Node.js, vb.).
-<!--
-**HamidHan/HamidHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Merhaba, Ben [Adınız Soyadınız]!
 
-Here are some ideas to get you started:
+Selamlar! Ben Backend'e odaklanmış bir geliştiriciyim. Yeni teknolojileri öğrenmeyi ve Mobil Geliştirme'yle ilgili projeler üretmeyi seviyorum.
 
-- 🔭 grdfsd..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Teknolojilerim ve Araçlarım
+
+Bildiklerimi ve kullandıklarımı aşağıda görebilirsiniz:
+
+### Frontend
+* HTML5, CSS3, **JavaScript** (ES6+)
+
+### Backend & Veritabanı
+* Python (Django/Flask), **Node.js** (Express)
+* PostgreSQL, **MySQL / MariaDB**
+
+### Diğer Araçlar
+* **Git & GitHub**, Docker, VS Code
+
+## 📊 GitHub İstatistiklerim
+
+[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=HamidHan&show_icons=true&theme=radical)](https://github.com/HamidHan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamidHan&layout=compact&theme=vision-friendly)](https://github.com/HamidHan)
+
+## 🔗 Bana Ulaşın
+
+* **LinkedIn:** [[LinkedIn Profil Bağlantınız](https://www.linkedin.com/in/hanhamidd/)]
+* **Kişisel Web Sitesi:** [[Web Siteniz (Varsa](http://htechdev.com.tr/))]
+* **Twitter:** [Twitter Adresiniz (Varsa)]
+
+---
+
+### 🔥 Şu anda Ne Yapıyorum?
+
+* Yeni bir dil olarak [Python,C++,Java]'yı öğreniyorum.
