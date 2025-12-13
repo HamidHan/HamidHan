@@ -22,18 +22,20 @@ Bildiklerimi ve kullandıklarımı aşağıda görebilirsiniz:
 
 ## 📊 GitHub İstatistiklerim ve Başarımlarım
 
+---
+## 🏆 GitHub İstatistiklerim ve Başarımlarım
+
+### Başarımlar
+
 [![GitHub Başarımları](https://github-profile-trophy.vercel.app/?username=HamidHan&theme=onedark&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/HamidHan)
 
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=HamidHan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="HamidHan'ın GitHub İstatistikleri" />
-    </td>
-    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidHan&layout=compact&theme=vision-friendly&hide_border=true" alt="HamidHan'ın En Çok Kullandığı Diller" />
-    </td>
-  </tr>
-</table>
+### İstatistikler
+
+[![HamidHan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=HamidHan&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/HamidHan)
+
+### En Çok Kullanılan Diller
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamidHan&layout=compact&theme=vision-friendly&hide_border=true)](https://github.com/HamidHan)
 
 ---
 
