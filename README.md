@@ -14,16 +14,6 @@ Here are the technologies and tools I know and use:
 
 ---
 
-## 📊 GitHub Stats and Skills
-
-<p align="center">
-  <a href="https://github.com/HamidHan">
-    <img src="https://github-readme-stats.vercel.app/api?username=HamidHan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Hamid Han's GitHub Stats" height="195px"/>
-  </a>
-</p>
-  
----
-
 ### 🔥 What I'm Currently Working On
 
 * I am currently learning **Python, C++, and Java** as new languages.
