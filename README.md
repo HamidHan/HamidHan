@@ -26,8 +26,8 @@ Bildiklerimi ve kullandıklarımı aşağıda görebilirsiniz:
 
 ## 🔗 Bana Ulaşın
 
-* **LinkedIn:** [[LinkedIn Profil Bağlantınız](https://www.linkedin.com/in/hanhamidd/)]
-* **Kişisel Web Sitesi:** [[Web Siteniz (Varsa](http://htechdev.com.tr/))]
+* **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/hanhamidd/)]
+* **Kişisel Web Sitesi:** [[Web Sitem](http://htechdev.com.tr/))]
 ---
 
 ### 🔥 Şu anda Ne Yapıyorum?
