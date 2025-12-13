@@ -30,3 +30,9 @@ Selamlar! Ben Backend'e odaklanmış bir geliştiriciyim. Yeni teknolojileri ö�
 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hanhamidd/)
 * **Kişisel Web Sitesi:** [Web Sitem](http://htechdev.com.tr/)
+
+### ☕ Bana Destek Olun
+
+<a href="linkiniz"> 
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+</a>
