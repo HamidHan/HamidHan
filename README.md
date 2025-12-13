@@ -28,8 +28,6 @@ Bildiklerimi ve kullandıklarımı aşağıda görebilirsiniz:
 
 * **LinkedIn:** [[LinkedIn Profil Bağlantınız](https://www.linkedin.com/in/hanhamidd/)]
 * **Kişisel Web Sitesi:** [[Web Siteniz (Varsa](http://htechdev.com.tr/))]
-* **Twitter:** [Twitter Adresiniz (Varsa)]
-
 ---
 
 ### 🔥 Şu anda Ne Yapıyorum?
