@@ -17,6 +17,9 @@ Selamlar! Ben Backend'e odaklanmış bir geliştiriciyim. Yeni teknolojileri ö�
 <p align="center">
   <a href="https://github.com/HamidHan">
     <img src="https://github-readme-stats.vercel.app/api?username=HamidHan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="HamidHan'ın GitHub İstatistikleri" height="195px"/>
+  </a>
+</p>
+    
 ---
 
 ### 🔥 Şu anda Ne Yapıyorum?
