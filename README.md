@@ -21,7 +21,6 @@ Here are the technologies and tools I know and use:
 ## 🔗 Connect With Me
 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hanhamidd/)
-* **Personal Website:** [My Website](http://htechdev.com.tr/)
 
 ### ☕ Support Me
 If you find my projects and contributions helpful, you can support me by buying me a coffee! Your support is a huge motivation for me to produce more open-source code.
