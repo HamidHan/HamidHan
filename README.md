@@ -1,28 +1,31 @@
 # 👋 Hello, I'm Hamid Han!
 
-Greetings! I'm a developer focused on **Backend**, and I love learning new technologies and creating projects related to **Mobile Development**.
+I am a developer focused on the **Backend**, passionate about learning new technologies and building projects that simplify life across **Mobile and Desktop** platforms.
 
 ---
 
-## 💻 My Technologies and Tools
+### 🚀 What I'm Currently Working On
+
+I am currently actively developing a **Comprehensive Windows System Utility** *(In Development 🛠️)*. 
+
+This project is not just a performance monitor; it is designed as an all-in-one tool that provides detailed **hardware health tracking** and allows users to **customize their hardware settings**. A major focus during development is ensuring that the application operates silently in the background with **minimum RAM usage without straining the system**. Styled with a modern **Mica UI**, it aims to be both lightweight and highly capable.
+
+---
+
+## 💻 Technologies & Tools
 
 Here are the technologies and tools I know and use:
 
-* **Frontend:** HTML5, CSS3, **JavaScript** (ES6+)
-* **Backend & Database:** Python (Django/Flask), **Node.js** (Express), PostgreSQL, **MySQL / MariaDB**
-* **Other Tools:** **Git & GitHub**, Docker, VS Code
+*   **Languages & Backend:** Python, Node.js (Express), C#
+*   **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+*   **Database:** PostgreSQL, MySQL / MariaDB
+*   **Tools & Architecture:** Git & GitHub, Docker, VS Code
 
 ---
 
-### 🔥 What I'm Currently Working On
+## 🔗 Connect & Support
 
-* I am currently learning **Python, C++, and Java** as new languages.
+If you want to check out my projects, exchange ideas, or support me on my open-source journey, feel free to connect with me! ☕ Your support is my biggest motivation to keep producing quality projects.
 
-## 🔗 Connect With Me
-
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hanhamidd/)
-
-### ☕ Support Me
-If you find my projects and contributions helpful, you can support me by buying me a coffee! Your support is a huge motivation for me to produce more open-source code.
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanhamidd/)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hanhamiddp)
